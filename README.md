@@ -279,7 +279,7 @@ Created with ❤️ by Ahmad
 
 For questions or suggestions:
 - Open an issue on GitHub
-- Email: ahmadasif5022004@gmail.com
+- Email: usmandanial0@gmail.com
 
 ---
 
