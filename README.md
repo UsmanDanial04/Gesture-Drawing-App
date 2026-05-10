@@ -267,7 +267,7 @@ This project is open source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Created with ❤️ by Ahmad
+Created with ❤️ by Usman Danial
 
 ## 🙏 Acknowledgments
 
